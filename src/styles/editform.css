@@ -1,0 +1,10 @@
+.edit-form-container{
+    background: linear-gradient(135deg, #1B8AF1, #B58DED);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
